@@ -28,11 +28,11 @@ Below is a general overview of what you'll learn in our Javascript section.
 - Add and trigger event listeners on DOM nodes an intercept user interactions
 
 ## jQuery
-Modify HTML With jQuery 
-Use the `document.ready()` function to separate code
-Use DOM selectors to select HTML elements
-Attach jQuery event listeners and handlers to trigger DOM events and actions
-Update an element’s position on a web page
-Move an element’s position on a web page in response to a browser action
+- Modify HTML With jQuery 
+- Use the `document.ready()` function to separate code
+- Use DOM selectors to select HTML elements
+- Attach jQuery event listeners and handlers to trigger DOM events and actions
+- Update an element’s position on a web page
+- Move an element’s position on a web page in response to a browser action
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/javascript-fundamentals-overview'>javascript fundamentals overview</a> on Learn.co and start learning to code for free.</p>
