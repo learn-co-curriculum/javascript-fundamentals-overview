@@ -1,6 +1,6 @@
 ## What You'll Learn
 
- You'll write and run JavaScript code,  and learn how to use JavaScript to manipulate the DOM. Reinforce what you’ve learned by building a  web based game. Below is a general overview of what you'll learn in the following Javvascript units. 
+ You'll write and run JavaScript code,  and learn how to use JavaScript to manipulate the DOM. Reinforce what you’ve learned by building a  web based game. Below is a general overview of what you'll learn in the following Javascript units. 
 
 ## Javascript Basics
 - Write and execute Javascript code in your browser console
