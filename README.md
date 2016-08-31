@@ -25,7 +25,7 @@
 ## The DOM 
 - Explain what the DOM is and use Javascript to manipulate it 
 - Create, remove, and insert DOM elements
-- Add and trigger event listeners on DOM nodes an intercept user interactions
+- Add and trigger event listeners on DOM nodes and intercept user interactions
 
 ## jQuery
 - Modify HTML With jQuery 
@@ -36,3 +36,5 @@
 - Move an element’s position on a web page in response to a browser action
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/javascript-fundamentals-overview'>javascript fundamentals overview</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/javascript-fundamentals-overview'>What You'll Learn </a> on Learn.co and start learning to code for free.</p>
