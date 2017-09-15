@@ -3,3 +3,4 @@ tags:
 languages:
   - language1
 resources: 0
+hard_wall: create_password
