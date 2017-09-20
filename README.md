@@ -1,13 +1,13 @@
-Congratulations! You finished all of the HTML/CSS material. You are well on your way to becoming a software developer. Next, we are going to dive into Javascript. Javascript is the most popular language of the web. Our goal is to give you understanding of both Javascript in the browser, and JavaScript as a back-end language using Node.JS. Before we dive in, let's go over what you are going to learn. After completing all (or even part) of this material you'll be ready to start applying to Bootcamps.
+Congratulations! You finished all of the HTML/CSS material. You are well on your way to becoming a software developer. Next, we are going to dive into JavaScript. JavaScript is the most popular language of the web. Our goal is to give you an understanding of both JavaScript in the browser, and JavaScript as a back-end language using Node.JS. Before we dive in, let's go over what you are going to learn. After completing all (or even part) of this material you'll be ready to start applying to Bootcamps.
 
 ## What You'll Learn
 
- You'll write and run JavaScript code,  and learn how to use JavaScript to manipulate the DOM. Reinforce what you’ve learned by building a  web based game. Below is a general overview of what you'll learn in the following Javascript units. 
+ You'll write and run JavaScript code,  and learn how to use JavaScript to manipulate the DOM. Reinforce what you’ve learned by building a  web based game. Below is a general overview of what you'll learn in the following JavaScript units. 
 
 ## Javascript Basics
-- Write and execute Javascript code in your browser console
-- Explain and use comments in Javascript code
-- Distinguish and use different data types in Javascript
+- Write and execute JavaScript code in your browser console
+- Explain and use comments in JavaScript code
+- Distinguish and use different data types in JavaScript
 - Use different logging methods
 
 ## Functions and Scope
@@ -25,7 +25,7 @@ Congratulations! You finished all of the HTML/CSS material. You are well on your
 - Access elements in nested data structures
 
 ## The DOM 
-- Explain what the DOM is and use Javascript to manipulate it 
+- Explain what the DOM is and use JavaScript to manipulate it 
 - Create, remove, and insert DOM elements
 - Add and trigger event listeners on DOM nodes and intercept user interactions
 
