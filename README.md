@@ -4,7 +4,7 @@ Congratulations! You finished all of the HTML/CSS material. You are well on your
 
  You'll write and run JavaScript code,  and learn how to use JavaScript to manipulate the DOM. Reinforce what you’ve learned by building a  web based game. Below is a general overview of what you'll learn in the following JavaScript units. 
 
-## Javascript Basics
+## JavaScript Basics
 - Write and execute JavaScript code in your browser console
 - Explain and use comments in JavaScript code
 - Distinguish and use different data types in JavaScript
@@ -37,6 +37,6 @@ Congratulations! You finished all of the HTML/CSS material. You are well on your
 - Update an element’s position on a web page
 - Move an element’s position on a web page in response to a browser action
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/javascript-fundamentals-overview'>javascript fundamentals overview</a> on Learn.co and start learning to code for free.</p>
+<p class='util--hide'>View <a href='https://learn.co/lessons/javascript-fundamentals-overview'>JavaScript Fundamentals Overview</a> on Learn.co and start learning to code for free.</p>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/javascript-fundamentals-overview'>What You'll Learn </a> on Learn.co and start learning to code for free.</p>
